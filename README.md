@@ -1,4 +1,4 @@
-Payroll-Management
+Payroll-Management System
 Full Stack Payroll Management System for admins using mysql and php.
 
 Overview:
@@ -6,7 +6,7 @@ The procedure through which a business pays its employees for work completed dur
 
 Architectural Diagram for the database# Staff-Payroll-Management-System
 ![image](https://user-images.githubusercontent.com/127801801/224856049-703c40e8-2ef1-48d6-9d54-8c0a3ac1bcb4.png)
-Softwares Used:
+Software’s Used:
 Platform – Windows Operating System, Visual Studio code, Microsoft Windows, MySQL, PHP, HTML, CSS and Xampp
 
 Sample Output Screenshots:
@@ -19,5 +19,5 @@ Home Page
 Departments Page
 ![image](https://user-images.githubusercontent.com/127801801/224856414-faa63491-3173-4223-884e-7bceddabe8dc.png)
 
-Payslip Page
+Pay slip Page
 ![image](https://user-images.githubusercontent.com/127801801/224856441-16635758-52fb-4550-a136-fd44c42f7078.png)
