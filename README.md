@@ -1,4 +1,4 @@
-Payroll-Management System
+# Payroll-Management System
 Full Stack Payroll Management System for admins using mysql and php.
 
 # Overview:
@@ -11,9 +11,11 @@ Platform – Windows Operating System, Visual Studio code, Microsoft Windows, My
 
 # Sample Output Screenshots:
 Login Page
+
 ![image](https://user-images.githubusercontent.com/127801801/224856316-9320d983-5c29-4912-8527-a2a2d3f2ca95.png)
 
 Home Page
+
 ![image](https://user-images.githubusercontent.com/127801801/224856373-6752bfa9-b481-4451-8e80-2f5f80963625.png)
 
 Departments Page
